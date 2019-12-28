@@ -1,5 +1,8 @@
 # Sense-of-Touch
 
+### Architecture ###
+![Architecture](https://github.com/arvindsastha/Sense-of-Touch/blob/master/architecture.PNG)
+
 ### Ue4duino ###
 UE4duino is a plugin in Unreal Engine 4 that allows communication
 with Arduino. It comes with events such as Serial Open, Serial Read, Serial Write,
